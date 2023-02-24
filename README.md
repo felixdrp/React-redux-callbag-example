@@ -15,6 +15,20 @@ Use of [callbags](https://github.com/callbag/callbag) to work with redux in the 
 
 ## Usage
 
+This project uses [vitejs](https://vitejs.dev/) as the base. To install run:
+```bash
+# npm
+npm install
+npm run dev
+```
+```bash
+# yarn
+yarn
+yarn dev
+```
+
+## Doc
+
 ### Part 1, New notation to define redux actions
 
 #### Define redux actions
