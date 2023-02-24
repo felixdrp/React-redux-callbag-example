@@ -1,0 +1,29 @@
+{
+  "name": "redux-callbag-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.2",
+    "callbag-basics": "^4.0.0",
+    "callbag-from-function": "^2.1.0",
+    "callbag-subscribe": "^1.5.1",
+    "immer": "^9.0.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "eslint": "^8.34.0",
+    "eslint-plugin-react": "^7.32.2",
+    "vite": "^4.1.2"
+  }
+}
